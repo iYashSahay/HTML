@@ -3,28 +3,28 @@
 Welcome to my HTML learning repository!  
 This project contains my hands-on exercises, notes, and implementations from the Codecademy HTML course. Each file demonstrates a different aspect of HTML, from basic document structure to forms, tables, and semantic markup.
 
-## 📁 Project Structure
+## 📁 Project Files
 
-- **Document Standard.html**  
-  A complete HTML document demonstrating standard structure, navigation, and content organization.
+- [**Document Standard.html**](./Document%20Standard.html)  
+  *A complete HTML document demonstrating standard structure, navigation, and content organization.*
 
-- **Elements & Structure.html**  
-  Explores HTML elements, nesting, and the use of structural tags.
+- [**Elements & Structure.html**](./Elements%20&%20Structure.html)  
+  *Explores HTML elements, nesting, and the use of structural tags.*
 
-- **Fashion Blog.html**  
-  A sample blog layout showcasing images, headings, links, and lists.
+- [**Fashion Blog.html**](./Fashion%20Blog.html)  
+  *A sample blog layout showcasing images, headings, links, and lists.*
 
-- **Form Validation.html**  
-  Demonstrates HTML form validation using attributes like `required`, `minlength`, `maxlength`, and `pattern`.
+- [**Form Validation.html**](./Form%20Validation.html)  
+  *Demonstrates HTML form validation using attributes like `required`, `minlength`, `maxlength`, and `pattern`.*
 
-- **HTML Forms.html**  
-  Covers various form elements: text inputs, checkboxes, radio buttons, select menus, datalists, and textareas.
+- [**HTML Forms.html**](./HTML%20Forms.html)  
+  *Covers various form elements: text inputs, checkboxes, radio buttons, select menus, datalists, and textareas.*
 
-- **HTML Tables.html**  
-  Shows how to create and style tables, including headers, footers, and cell attributes.
+- [**HTML Tables.html**](./HTML%20Tables.html)  
+  *Shows how to create and style tables, including headers, footers, and cell attributes.*
 
-- **Semantic HTML.html**  
-  Implements semantic tags such as `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<figure>`, and `<footer>` for meaningful page structure.
+- [**Semantic HTML.html**](./Semantic%20HTML.html)  
+  *Implements semantic tags such as `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<figure>`, and `<footer>` for meaningful page structure.*
 
 ## 🚀 Highlights
 
