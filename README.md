@@ -51,4 +51,4 @@ This project contains my hands-on exercises, notes, and implementations from the
 ---
 
 Happy coding!  
-*This repository is a reflection of my progress and dedication to learning modern web development with
+*This repository is a reflection of my progress and dedication to learning modern web development with HTML.*
